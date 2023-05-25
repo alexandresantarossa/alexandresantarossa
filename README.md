@@ -11,8 +11,17 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
   <img align="center" alt="Solidity" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/solidity.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+  <img align="center" alt="MatLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+
+
 </div>
   
  ##
